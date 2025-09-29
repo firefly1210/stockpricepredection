@@ -1,0 +1,16 @@
+# Virtual env
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Streamlit
+.streamlit/
+
+# Models
+models/
+
+# OS / misc
+.DS_Store
+Thumbs.db
